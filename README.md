@@ -1,3 +1,3 @@
 # MailFit-Slider
 
-My furst commit
+My first commit
